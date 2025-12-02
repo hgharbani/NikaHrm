@@ -1,0 +1,6 @@
+@NikaHrm.Api_HostAddress = http://localhost:5223
+
+GET {{NikaHrm.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

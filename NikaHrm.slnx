@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="NikaHrm.Api/NikaHrm.Api.csproj" />
+  <Project Path="NikaHrm.Domain/NikaHrm.Domain.csproj" />
+  <Project Path="NikaHrm.Infrastructure/NikaHrm.Infrastructure.csproj" />
+  <Project Path="NikaHrm.Persistence/NikaHrm.Persistence.csproj" />
+  <Project Path="NikaHrm.Shared/NikaHrm.Shared.csproj" />
+  <Project Path="NikaHrm/NikaHrm.csproj" />
+  <Project Path="NikaHrmApplication/NikaHrm.Application.csproj" />
+</Solution>
