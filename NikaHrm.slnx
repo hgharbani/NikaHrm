@@ -4,6 +4,6 @@
   <Project Path="NikaHrm.Infrastructure/NikaHrm.Infrastructure.csproj" />
   <Project Path="NikaHrm.Persistence/NikaHrm.Persistence.csproj" />
   <Project Path="NikaHrm.Shared/NikaHrm.Shared.csproj" />
-  <Project Path="NikaHrm/NikaHrm.csproj" />
+  <Project Path="NikaHrm.Web/NikaHrm.Web.csproj" />
   <Project Path="NikaHrmApplication/NikaHrm.Application.csproj" />
 </Solution>
